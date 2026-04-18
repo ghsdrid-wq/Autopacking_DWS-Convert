@@ -1,4 +1,5 @@
 #Autopacking_DWS_Convert
+โปรแกรมสำหรับใช้ในการ Convert ไฟล์ Excel เพื่อให้สะดวกต่อการนำข้อมูลไปใช้งาน
 
 #Pythoncode
 Main.py - Main Process - UI 
